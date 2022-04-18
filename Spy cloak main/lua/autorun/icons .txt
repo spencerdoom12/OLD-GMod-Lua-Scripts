@@ -1,0 +1,13 @@
+--══╝║╗└─>╟──>
+--dictates who/what the player is able to damage while in ghost mode\n   
+╔╗
+╚╝
+╠╩
+╔─ 0: Nothing\n   
+╠─ 1: NPCs\n   
+╠─ 2: NPCs + Players\n   
+╠─ 3: Players\n   
+╠─ 4: Props\n   
+╠─ 5: Props + NPCs\n   
+╠─ 6: Props + Players\n   
+╚─ 7: Everything

@@ -1,0 +1,8 @@
+{
+	"title": "Any gamemode accurate rocketjumps!",
+	"type": "tool",
+	"tags": [
+		"fun",
+		"comic"
+	]
+}
