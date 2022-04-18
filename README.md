@@ -1,2 +1,2 @@
 # OLD-GMod-Lua-Scripts
-a collection of my old gmod lua scripts, ive uploaded most of these to the workshop.
+a collection of my old gmod lua scripts, rocketjumps was my first original mod and cloak came after. I havent uploaded cloak yet though, it still needs testing.
